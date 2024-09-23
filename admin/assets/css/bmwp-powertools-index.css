@@ -1,0 +1,28 @@
+li#wp-admin-bar-noindex-alert {
+    margin-right: 4px !important;
+}
+
+#wpadminbar #wp-admin-bar-noindex-alert a {
+    background-color: #da2020;
+    color: white;
+    margin-top: 7px;
+    padding: 0 6px;
+    height: 18px;
+    line-height: 18px;
+    border-radius: 2px;
+}
+
+#wpadminbar #wp-admin-bar-noindex-alert a:before {
+    content: "\f530";
+    top: 0px;
+    position: relative;
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 18px !important;
+    padding: 0px;
+    margin-right: 4px;
+}
+
+#wpadminbar #wp-admin-bar-noindex-alert a:hover {
+    background-color: #ca0000;
+}
