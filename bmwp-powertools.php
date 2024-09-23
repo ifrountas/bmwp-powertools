@@ -9,14 +9,14 @@
  * that starts the plugin.
  *
  * @link              https://bakemywp.com/
- * @since             1.0.1
+ * @since             1.0.0
  * @package           Bmwp_Powertools
  *
  * @wordpress-plugin
  * Plugin Name:       Bake My WP PowerTools
  * Plugin URI:        https://bakemywp.com/powertools/
  * Description:       Delivers essential tweaks and fixes to optimize your WordPress dashboard for a smoother workflow and enhanced performance. Exclusively available to our premium clients.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Bake My WP Team
  * Author URI:        https://bakemywp.com/
  * License:           GPL-2.0+
@@ -35,7 +35,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'BMWP_POWERTOOLS_VERSION', '1.0.0' );
+define( 'BMWP_POWERTOOLS_VERSION', '1.0.1' );
 
 /**
  * The code that runs during plugin activation.
